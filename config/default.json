@@ -1,4 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://ankitkumar101967:enMshsKTeH2eYcam@cluster1.jbaxmiu.mongodb.net/Contact_Mern?retryWrites=true&w=majority",
+    "mongoURI" : "your_mongodb_URI",
     "jwtSecret" : "secret"
 }
