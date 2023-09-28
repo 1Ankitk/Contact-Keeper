@@ -1,4 +1,4 @@
 {
     "mongoURI" : "your_mongodb_URI",
-    "jwtSecret" : "secret"
+    "jwtSecret" : "your_secret_code"
 }
